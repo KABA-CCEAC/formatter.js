@@ -7,8 +7,8 @@
 */
 
 
-var pattern = require('pattern');
-var utils = require('utils');
+var pattern = require('./pattern');
+var utils = require('./utils');
 
 
 //

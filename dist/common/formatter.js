@@ -5,9 +5,9 @@
  *
  */
 
-var patternMatcher = require('pattern-matcher');
-var inptSel = require('inpt-sel');
-var utils = require('utils');
+var patternMatcher = require('./pattern-matcher');
+var inptSel = require('./inpt-sel');
+var utils = require('./utils');
 
 
 // Defaults
